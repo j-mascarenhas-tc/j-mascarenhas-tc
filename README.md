@@ -14,6 +14,7 @@ I am a DevOps from Sao Paulo
 
 ## <br>Expertise
 
-> <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><br>
+> <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+>  <img align="left" alt="aws" src="https://github.com/j-mascarenhas-tc/files/blob/master/images/google.png" /><br>
 > <br>
 
