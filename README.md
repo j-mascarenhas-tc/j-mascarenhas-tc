@@ -11,7 +11,7 @@ I am a DevOps from Sao Paulo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemarmascarenhas/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/j-mascarenhas-tc)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg??label=M&message=Medium&color=black)](https://https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg??label=M&message=Medium&color=black)](https://twitter.com/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo&logo=facebook&logoColor=white")](https://www.facebook.com/josy.brito.779/)
 
 ## <br>Expertise
