@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World 👋, I am Josemar
 
 I am a DevOps from Sao Paulo
 
@@ -9,12 +9,67 @@ I am a DevOps from Sao Paulo
 ## Connect with me
 
 
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josemarmascarenhas/)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)<br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemarmascarenhas/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/j-mascarenhas)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg??label=M&message=Medium&color=black)](https://pavan1999-kumar.medium.com/)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo&logo=facebook&logoColor=white")](https://www.facebook.com/josy.brito.779/)
 
 ## <br>Expertise
 
-> <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
->  <img align="left" alt="aws" src="https://github.com/j-mascarenhas-tc/files/blob/master/images/google.png" /><br>
-> <br>
+#### Cloud Providers
+ 
+ <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+ </p>
+ 
+ #### Containerization and Orchestration
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+ </p>
 
+  #### Service Mesh
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></code>
+ </p>
+ 
+ #### HashiCorp Stack 
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
+ </p>
+
+#### GitOps 
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+ </p>
+   
+   #### Monitoring 
+   
+  <p float="left">
+
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+ </p>
+ 
+ #### CI/CD
+
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+
+ </p>
+
+  #### Configuration Management 
+ 
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+ </p>
